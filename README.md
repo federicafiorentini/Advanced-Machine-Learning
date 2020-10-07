@@ -1,5 +1,4 @@
 # Advanced-Machine-Learning
-Univesity exam
 
 Assignment 1: prediction of default payments using a neural network
 
